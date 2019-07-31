@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Numerek/static/css/main.4331f015.chunk.css",
+    "main.js": "/Numerek/static/js/main.566c5f9d.chunk.js",
+    "main.js.map": "/Numerek/static/js/main.566c5f9d.chunk.js.map",
+    "runtime~main.js": "/Numerek/static/js/runtime~main.401f2ba4.js",
+    "runtime~main.js.map": "/Numerek/static/js/runtime~main.401f2ba4.js.map",
+    "static/js/2.16a1f3ed.chunk.js": "/Numerek/static/js/2.16a1f3ed.chunk.js",
+    "static/js/2.16a1f3ed.chunk.js.map": "/Numerek/static/js/2.16a1f3ed.chunk.js.map",
+    "index.html": "/Numerek/index.html",
+    "precache-manifest.b500dee207822c5b39c4793b11042196.js": "/Numerek/precache-manifest.b500dee207822c5b39c4793b11042196.js",
+    "service-worker.js": "/Numerek/service-worker.js",
+    "static/css/main.4331f015.chunk.css.map": "/Numerek/static/css/main.4331f015.chunk.css.map",
+    "static/media/App.css": "/Numerek/static/media/coldnightforalligators.c55d200a.ttf"
+  }
+}
