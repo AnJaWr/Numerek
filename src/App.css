@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css?family=Darker+Grotesque&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Cinzel&display=swap');
+
+@font-face {
+  font-family: 'Cold Night for Alligators';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Cold Night for Alligators'), local('Cold Night for Alligators'),
+       url('./font/coldnightforalligators.ttf') format('truetype');
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+body {
+  background: black;
+  color: white;
+  font-family: 'Cinzel', serif;
+}
+.App {
+  margin-top: 20px;} 
+
+.cytat {
+font-family: 'Darker Grotesque', sans-serif;
+  font-size: 20px;
+  background: rgba(169, 169, 169, 0.212);
+
+}
+.cytat--img{
+  width: 100%;
+  height: 50vh;
+  top: 20px;
+  background-image: url(./img/Schopenhauer.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-position-y: 20px;
+}
+
+.cytat--text{
+  padding: 20px;
+  text-align: center;
+}
+
+input[type=number]{
+  width: 60px;
+  font-size: 16px;
+  border-radius: 10px;
+  padding: 6px;
+}
+
+input[type=number]:hover, input[type=number]:active, label{
+outline: 0;
+}
+
+label {
+  font-size: 16px;
+  margin-right: 5px;
+}
+
+button {
+  width:150px;
+  height: 80px;
+ font-family: 'Cinzel', serif;
+  font-size: 20px;
+  transition: 0.5s;
+}
+
+button:active {
+  background:grey
+}
+
+.ofiara{
+font-family: 'Cold Night for Alligators';
+font-size: 200px;
+text-align: center;
+color: red;
+padding: 15px;
+}
+
+.button{
+  margin-top: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
